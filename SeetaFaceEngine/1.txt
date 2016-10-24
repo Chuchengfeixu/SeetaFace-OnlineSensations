@@ -1,0 +1,1 @@
+ INPUTIMAGE="/home/dh/program/SeetaFaceEngine/FaceAlignment/input/input.jpg"  

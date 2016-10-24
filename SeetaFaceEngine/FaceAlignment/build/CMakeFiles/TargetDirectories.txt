@@ -1,0 +1,4 @@
+/home/dh/program/SeetaFaceEngine/FaceAlignment/build/CMakeFiles/edit_cache.dir
+/home/dh/program/SeetaFaceEngine/FaceAlignment/build/CMakeFiles/fa_test.dir
+/home/dh/program/SeetaFaceEngine/FaceAlignment/build/CMakeFiles/rebuild_cache.dir
+/home/dh/program/SeetaFaceEngine/FaceAlignment/build/CMakeFiles/seeta_fa_lib.dir
